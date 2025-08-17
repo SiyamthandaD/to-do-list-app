@@ -1,6 +1,6 @@
 # TaskMaster - Productivity Application
 
-## Project Link: https://app.netlify.com/teams/dlakavusiseko/projects
+## Project Link: https://taskmaster-todo-list-app.netlify.app/
 
 <img width="621" height="105" alt="image" src="https://github.com/user-attachments/assets/f1dc821e-0d22-430d-a776-5620a8a89607" />
 
