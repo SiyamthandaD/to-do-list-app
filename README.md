@@ -1,81 +1,119 @@
-TaskMaster: Your Productivity Companion
+# TaskMaster - Productivity Application
 
-Project Link: https://app.netlify.com/teams/dlakavusiseko/projects
+## Project Link: https://app.netlify.com/teams/dlakavusiseko/projects
 
-TaskMaster is a modern, responsive, and feature-rich productivity web application designed to help you manage your tasks effectively. With a clean, intuitive interface, it provides a seamless experience for creating, organizing, and tracking your to-do lists.
+<img width="621" height="105" alt="image" src="https://github.com/user-attachments/assets/f1dc821e-0d22-430d-a776-5620a8a89607" />
 
-🌟 Features
+TaskMaster is a modern, feature-rich productivity application designed to help users manage their tasks efficiently with a beautiful and intuitive interface.
 
-🔐 User Authentication: Secure login and registration pages to manage your personal tasks.
+## Features
 
-✅ Task Management: Create tasks with titles, descriptions, and optional notification times.
+- **User Authentication**
+  - Secure login and registration system.
+  - Local storage for user data persistence.
+  - Password visibility toggle.
 
-📋 Task Filtering: Easily view tasks based on their status: Active, Completed, or Deleted.
+- **Task Management**
+  - Create, edit, and delete tasks.
+  - Mark tasks as complete.
+  - Filter tasks (Active/Completed/Deleted).
+  - Task notifications with customizable timing.
+  - Task restoration from trash.
 
-🎨 Personalization: Customize your experience with a variety of color themes and a dark mode option.
+- **Profile Management**
+  - Customizable profile pictures.
+  - User statistics (tasks created/completed).
+  - Account management options.
 
-👤 Profile Customization: Choose a profile avatar and manage your personal details.
+- **Customization**
+  - Multiple color themes (Default, Sapphire, Emerald, Amethyst, Crimson, Ocean).
+  - Dark/Light mode toggle.
+  - Font family and size customization.
+  - Default view preference.
 
-📱 User-friendly Interface: A clean and responsive design that works great on both desktop and mobile devices.
+- **Data Management**
+  - Import/Export task data (JSON format)
+  - Local storage for all user data
 
-🚀 Getting Started
+## Technologies Used
 
-To get a local copy up and running, follow these simple steps.
+- HTML5.
+- CSS3 (with CSS Variables for theming).
+- JavaScript (ES6).
+- LocalStorage for data persistence.
+- Font Awesome for icons.
+- Google Fonts.
 
-Prerequisites
+## Installation
 
-You only need a modern web browser to run this application.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/taskmaster.git
 
-Installation
+2. Open the project in your preferred code editor.
 
-Clone the repository:
+3. Launch the application by opening index.html in your browser.
 
-git clone https://github.com/your-username/TaskMaster.git
+## Usage
+## 1. Authentication
+* Register a new account or login with existing credentials.
+* All data is stored locally in your browser.
 
+## 2. Task Management
+* Add new tasks with titles and descriptions.
+* Set notification reminders for tasks.
+* Mark tasks as complete when finished.
+* Move tasks to trash or delete permanently.
 
-Navigate to the project directory:
+## 3. Customization
+* Access Settings to:
+  - Change application theme.
+  - Toggle dark/light mode.
+  - Adjust font settings.
+  - Configure notification preferences.
 
-cd TaskMaster
+ ## 4. Profile
+* View your profile statistics.
+* Change your profile picture.
+* Access account management options.
 
+## File Structure
+<img width="960" height="267" alt="image" src="https://github.com/user-attachments/assets/02681683-51a0-457c-b25c-714dcfec78e4" />
 
-Open the index.html file in your web browser to start the application.
+## Screenshots
+* Login Screen:
+<img width="536" height="600" alt="image" src="https://github.com/user-attachments/assets/7ccf4742-cdf9-4482-8f3e-f4a5e8419036" />
 
-📂 Project Structure
+* Task Management Interface:
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/cec92d24-8a92-42dd-8f5d-bb7909e4e6e6" />
 
-📄 index.html: The main authentication page for user login and registration.
+* Customization Settings:
+<img width="1901" height="732" alt="image" src="https://github.com/user-attachments/assets/5591e53b-7add-4e07-83d7-cc5055c9fb48" />
+<img width="1902" height="585" alt="image" src="https://github.com/user-attachments/assets/9b23e499-aae2-423b-a4cf-79943238e4fc" />
 
-📄 taskmaster-app.html: The core application page where users can manage their tasks.
+* User Profile Page:
+<img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/2db9f6f0-510e-4e75-9aa2-91f4c866d184" />
 
-📁 css/styles.css: Contains the base styles and the styles for the authentication pages.
+## Future Enhancements
+* Cloud synchronization.
+* Task categories/tags.
+* Task due dates and priorities.
+* Mobile application version.
+* Sharing/collaboration features.
 
-📁 css/taskmaster-app.css: Contains the styles for the main application, including themes and dark mode.
+## Contributing
+Contributions are welcome! Please follow these steps:
 
-🖼️ images/: Contains the application's icon and character avatars.
+* Fork the repository.
+* Create your feature branch (git checkout -b feature/AmazingFeature)
+* Commit your changes (git commit -m 'Add some AmazingFeature')
+* Push to the branch (git push origin feature/AmazingFeature)
+* Open a Pull Request.
 
-💻 js/: Contains the JavaScript files that handle the application's functionality. (Note: These are referenced but not provided in the uploaded files).
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-🎨 Themes & Customization
-
-TaskMaster comes with a number of built-in themes that you can select from the Settings page to personalize the look and feel of the app. It also includes a robust dark mode for a comfortable viewing experience in low-light conditions.
-
-🤝 Contribution
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-📄 License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-📧 Contact
-
-Your Name - your-email@example.com
+## Acknowledgments
+* Font Awesome for the beautiful icons.
+* Google Fonts for the typography.
+* All open source libraries used in this project.
