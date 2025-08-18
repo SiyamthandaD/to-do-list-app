@@ -117,3 +117,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * Font Awesome for the beautiful icons.
 * Google Fonts for the typography.
 * All open source libraries used in this project.
+
+<div align="center"> <p>Built with ❤️ by Siyamthanda Dlakavu</p>
