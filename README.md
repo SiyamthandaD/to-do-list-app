@@ -2,7 +2,8 @@
 
 ## Project Link: https://taskmaster-todo-list-app.netlify.app/
 
-<img width="621" height="105" alt="image" src="https://github.com/user-attachments/assets/f1dc821e-0d22-430d-a776-5620a8a89607" />
+<img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/32ae1a24-3a6a-40fd-913a-c76c20e3b494" />
+
 
 TaskMaster is a modern, feature-rich productivity application designed to help users manage their tasks efficiently with a beautiful and intuitive interface.
 
@@ -78,21 +79,21 @@ TaskMaster is a modern, feature-rich productivity application designed to help u
 * Access account management options.
 
 ## File Structure
-<img width="960" height="267" alt="image" src="https://github.com/user-attachments/assets/02681683-51a0-457c-b25c-714dcfec78e4" />
+<img width="685" height="506" alt="image" src="https://github.com/user-attachments/assets/432a034c-722a-481b-9030-6ea73e454dee" />
 
 ## Screenshots
 * Login Screen:
-<img width="536" height="600" alt="image" src="https://github.com/user-attachments/assets/7ccf4742-cdf9-4482-8f3e-f4a5e8419036" />
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/aec8b112-a491-4d6c-9665-3b2f93ac97b6" />
 
 * Task Management Interface:
-<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/cec92d24-8a92-42dd-8f5d-bb7909e4e6e6" />
+<img width="1600" height="777" alt="image" src="https://github.com/user-attachments/assets/b651e5e8-f5e2-4ed5-a68c-5fe241e9f18c" />
 
 * Customization Settings:
-<img width="1901" height="732" alt="image" src="https://github.com/user-attachments/assets/5591e53b-7add-4e07-83d7-cc5055c9fb48" />
-<img width="1902" height="585" alt="image" src="https://github.com/user-attachments/assets/9b23e499-aae2-423b-a4cf-79943238e4fc" />
+<img width="1582" height="668" alt="image" src="https://github.com/user-attachments/assets/ec06e62e-6d28-40e7-97d0-c9fbd84cfce6" />
+<img width="1586" height="542" alt="image" src="https://github.com/user-attachments/assets/86254e18-1a39-4ea6-8ebf-61e79341503b" />
 
 * User Profile Page:
-<img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/2db9f6f0-510e-4e75-9aa2-91f4c866d184" />
+<img width="1600" height="777" alt="image" src="https://github.com/user-attachments/assets/90680325-d54a-4bf4-99c3-22a8de5452f9" />
 
 ## Future Enhancements
 * Cloud synchronization.
